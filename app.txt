@@ -2,3 +2,4 @@ Se detallan a continuación algunos comandos básicos para el uso de git por con
 1. git add .   // Agrega al stage todos los archivos que se hayan creado en el proyecto
 2. git commit -m "Mensaje del commit"  // Confirma definitivamente los archivos agregados al stage
 3. git push origin main // Envia los archivos del respositorio local al respoitorio remoto
+4. git pull origin main // Actualiza los archivos en el repositorio local con lo existente en el respoitorio remoto
